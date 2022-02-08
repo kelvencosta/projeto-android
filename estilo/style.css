@@ -6,7 +6,7 @@
 }
 
 :root {
-    --font-android: 'android', 'cursive', 'Franklin Gothic Medium';
+    --font-android: 'android', 'Franklin Gothic Medium' , sans-serif;
 }
 
 body {
